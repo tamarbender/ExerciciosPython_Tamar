@@ -13,7 +13,7 @@
 ### Siomara Mota
 ### Indhira Viana Freire
 
-## Resolução_dos_Desafios_propostos:
+## Resolução_dos_desafios_propostos:
 
 _Através de bate-papo no Discord, reuniões no meet e divisão das tarefas, compartilhando conhecimentos._
 
