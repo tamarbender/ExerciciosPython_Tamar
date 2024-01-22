@@ -27,7 +27,7 @@ def display_menu() -> None:
         '------------------------------------------\n'
         '| 1) Converter para Fahrenheit           |\n'
         '| 2) Converter para Celsius              |\n'
-        '| 3) Sair do Menu                        |'
+        '| 3) Sair do Menu                        |\n'
         '|________________________________________|\n'
     )
 
