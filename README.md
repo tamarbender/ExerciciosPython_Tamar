@@ -2,7 +2,7 @@
 
 ## SQUAD SQUAD MAE C. JEMISON, composta por 10 participantes:
 
-### Ana Paula Martins Braga              || apmbraga
+### Ana Paula Martins Braga              || [apmbraga](https://github.com/apmbraga)
 ### Angela Filomena
 ### Daniele Ferreira Galvão
 ### Indhira Viana Freire
