@@ -6,7 +6,6 @@
 # Exemplo de retorno: Olá Maria, prazer te conhecer. Sou de São Paulo
 # também e estou migrando de área
 
-
 # Definir as variáveis
 nome = "Maria"
 idade = 38
