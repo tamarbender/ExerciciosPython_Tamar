@@ -2,17 +2,25 @@
 
 ## SQUAD SQUAD MAE C. JEMISON, composta por 10 participantes:
 
-### Ana Paula Martins Braga              || [apmbraga](https://github.com/apmbraga)
-### Angela Filomena
-### Daniele Ferreira Galvão                || [DanieleFG](https://github.com/DanieleFG) 
-### Indhira Viana Freire
-### Manuele Maurício Lamenha
-### Millena Figueredo
-### Quesia De Araújo Santos
-### Siomara Mota
-### Tamar Bender
-### Yohanna Oliveira Cavalcanti
+### Ana Paula Martins Braga || [apmbraga](https://github.com/apmbraga)
 
+### Angela Filomena
+
+### Daniele Ferreira Galvão || [DanieleFG](https://github.com/DanieleFG)
+
+### Indhira Viana Freire
+
+### Manuele Maurício Lamenha
+
+### Millena Figueredo
+
+### Quesia De Araújo Santos || [quesia-araujo](https://github.com/quesia-araujo)
+
+### Siomara Mota
+
+### Tamar Bender
+
+### Yohanna Oliveira Cavalcanti
 
 ## Resolução_dos_desafios_propostos:
 
