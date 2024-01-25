@@ -2,16 +2,26 @@
 
 ## SQUAD SQUAD MAE C. JEMISON, composta por 10 participantes:
 
-### Ana Paula Martins Braga
-### Yohanna Oliveira Cavalcanti
-### Tamar Bender
-### Quesia De Araújo Santos
-### Angela Filomena |[anbaptista](https://github.com/anbaptista/)|
-### Daniele Ferreira Galvão
-### Millena Figueredo
-### Manuele Maurício Lamenha
-### Siomara Mota
+
+### Ana Paula Martins Braga || [apmbraga](https://github.com/apmbraga)
+
+### Angela Filomena || [anbaptista](https://github.com/anbaptista/
+
+### Daniele Ferreira Galvão || [DanieleFG](https://github.com/DanieleFG)
+
 ### Indhira Viana Freire
+
+### Manuele Maurício Lamenha
+
+### Millena Figueredo
+
+### Quesia De Araújo Santos || [quesia-araujo](https://github.com/quesia-araujo)
+
+### Siomara Mota
+
+### Tamar Bender
+
+### Yohanna Oliveira Cavalcanti
 
 ## Resolução_dos_desafios_propostos:
 
