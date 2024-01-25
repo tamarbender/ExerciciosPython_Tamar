@@ -4,7 +4,7 @@
 
 ### Ana Paula Martins Braga              || [apmbraga](https://github.com/apmbraga)
 ### Angela Filomena
-### Daniele Ferreira Galvão
+### Daniele Ferreira Galvão                || [DanieleFG](https://github.com/DanieleFG) 
 ### Indhira Viana Freire
 ### Manuele Maurício Lamenha
 ### Millena Figueredo
