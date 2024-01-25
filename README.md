@@ -5,7 +5,7 @@
 
 ### Ana Paula Martins Braga || [apmbraga](https://github.com/apmbraga)
 
-### Angela Filomena || [anbaptista](https://github.com/anbaptista/
+### Angela Filomena || [anbaptista](https://github.com/anbaptista/)
 
 ### Daniele Ferreira Galvão || [DanieleFG](https://github.com/DanieleFG)
 
