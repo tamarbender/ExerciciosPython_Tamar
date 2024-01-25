@@ -6,7 +6,7 @@
 ### Yohanna Oliveira Cavalcanti
 ### Tamar Bender
 ### Quesia De Araújo Santos
-### Angela Filomena
+### Angela Filomena |[anbaptista](https://github.com/anbaptista/)|
 ### Daniele Ferreira Galvão
 ### Millena Figueredo
 ### Manuele Maurício Lamenha
