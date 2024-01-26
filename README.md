@@ -19,7 +19,7 @@
 
 ### Siomara Mota
 
-### Tamar Bender
+### Tamar Bender || https://github.com/tamarbender/ExerciciosPython_Tamar
 
 ### Yohanna Oliveira Cavalcanti
 
